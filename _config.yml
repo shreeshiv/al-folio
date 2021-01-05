@@ -2,20 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+title: Shreeshiv Patel's personal website # the website title (if blank, full name will be used instead)
+first_name: Shreeshiv
+middle_name: 
+last_name: Patel
+email: patelshreeshiv at gmail dot com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Shreeshiv Patel's personal website.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+
 
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
@@ -41,20 +39,19 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
+github_username: shreeshiv # your GitHub user name
+twitter_username: shreeshivpatel # your Twitter handle
+linkedin_username: shreeshiv-patel-111991127 # your LinkedIn user name
+scholar_userid: aNNYSEsAAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-0847-2702 # your ORCID ID
+medium_username: shreeshivpatel # your Medium username
+quora_username: Patel-Shreeshiv # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Shreeshiv_Patel # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
-
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can contact me on an social media <br/> I would like to meet in person. :) but, Until then, you can mail on patelshreeshiv[at]gmail[dot]com
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -62,8 +59,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: the vagabond  # your blog must have a name for it to show up in the nav bar
+blog_description: My notes and some articles.. please visit medium for complete articles.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -71,7 +68,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -86,6 +83,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  
 
 news_limit: 5
 
@@ -128,8 +126,8 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Patel
+  first_name: Shreeshiv
 
   style: apa
   locale: en
