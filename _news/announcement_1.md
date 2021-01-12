@@ -13,6 +13,16 @@ I am very happy to tell that I have started internship at Microsoft. It was real
 
 ***
 
+<br/>
+<br/>
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/internship_microsoft.jpeg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+***
+
 Some of the articles that I wrote about internship experience and interview preparation. 
 ![Internship at Microsoft]()
 

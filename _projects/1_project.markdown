@@ -15,6 +15,7 @@ Drafted a research paper and due for submitting to the conference, pre-print is 
     description: a project with a background image
     img: /assets/img/aiesi.jpeg
     ---
+    
 <br/>
 <br/>
 <div class="row">
